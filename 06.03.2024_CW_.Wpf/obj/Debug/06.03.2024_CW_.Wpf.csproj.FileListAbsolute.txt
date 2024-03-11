@@ -1,0 +1,15 @@
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\bin\Debug\06.03.2024_CW_.Wpf.exe.config
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\bin\Debug\06.03.2024_CW_.Wpf.exe
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\bin\Debug\06.03.2024_CW_.Wpf.pdb
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf.csproj.AssemblyReference.cache
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\MainWindow.g.cs
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\App.g.cs
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf_MarkupCompile.cache
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf_MarkupCompile.lref
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\MainWindow.baml
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf.g.resources
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\_06._03._2024_CW_.Wpf.Properties.Resources.resources
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf.csproj.GenerateResource.cache
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf.csproj.CoreCompileInputs.cache
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf.exe
+G:\cw2\06.03.2024_CW_.Wpf\06.03.2024_CW_.Wpf\obj\Debug\06.03.2024_CW_.Wpf.pdb
